@@ -12,6 +12,7 @@ This is an app to demonstrate how to work with aws amplify and cognito
 * amplify api
 * amplify auth
 * amplify hosting
+* amplify cognito
 
 ## Resources
 
