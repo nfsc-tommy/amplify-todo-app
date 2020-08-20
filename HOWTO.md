@@ -20,3 +20,9 @@ This is an app to demonstrate how to work with aws amplify and cognito
 * https://docs.amplify.aws/cli/start/workflows
 * https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html
 * https://serverless-idm.awssecworkshops.com/
+
+## Deployment
+
+* dev https://dev.d2j31kpmzghwbw.amplifyapp.com 
+* prod https://prod.d2j31kpmzghwbw.amplifyapp.com
+
