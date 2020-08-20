@@ -1,26 +1,27 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-mytodo-dev-162352-authRole",
-            "UnauthRoleArn": "arn:aws:iam::539479115707:role/amplify-mytodo-dev-162352-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::539479115707:role/amplify-mytodo-dev-162352-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-mytodo-dev-162352-deployment",
-            "UnauthRoleName": "amplify-mytodo-dev-162352-unauthRole",
-            "StackName": "amplify-mytodo-dev-162352",
-            "StackId": "arn:aws:cloudformation:us-east-1:539479115707:stack/amplify-mytodo-dev-162352/7e300000-e2be-11ea-a10d-0ee5b554e1bc",
-            "AmplifyAppId": "d2j31kpmzghwbw"
-        },
-        "categories": {
-            "auth": {
-                "mytodo7c860a07": {}
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d2j31kpmzghwbw",
-                    "type": "manual"
-                }
-            }
-        }
-    }
+	"dev": {
+		"awscloudformation": {
+			"AuthRoleName": "amplify-mytodo-dev-162352-authRole",
+			"UnauthRoleArn": "arn:aws:iam::539479115707:role/amplify-mytodo-dev-162352-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::539479115707:role/amplify-mytodo-dev-162352-authRole",
+			"Region": "us-east-1",
+			"DeploymentBucketName": "amplify-mytodo-dev-162352-deployment",
+			"UnauthRoleName": "amplify-mytodo-dev-162352-unauthRole",
+			"StackName": "amplify-mytodo-dev-162352",
+			"StackId": "arn:aws:cloudformation:us-east-1:539479115707:stack/amplify-mytodo-dev-162352/7e300000-e2be-11ea-a10d-0ee5b554e1bc",
+			"AmplifyAppId": "d2j31kpmzghwbw"
+		},
+		"categories": {
+			"auth": {
+				"mytodo7c860a07": {}
+			},
+			"hosting": {
+				"amplifyhosting": {
+					"appId": "d2j31kpmzghwbw",
+					"type": "manual"
+				}
+			}
+		}
+	}
 }
+
